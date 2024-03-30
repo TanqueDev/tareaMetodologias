@@ -8,7 +8,8 @@ fn main() {
 
     //
     //
-    println!("Soy Joan Esteban López Narváez, Código 2326165!")
+    println!("Soy Joan Esteban López Narváez, Código 2326165!");
+    println!("Metodologías de Desarrollo de Software");
     //
     //
 }
